@@ -1,0 +1,13 @@
+# Dépendances alternatives pour Python 3.13
+# Si requirements.txt ne fonctionne pas, essayez celui-ci
+
+# Interface graphique (installation depuis git pour version la plus récente)
+git+https://github.com/TomSchimansky/CustomTkinter.git
+
+# Dépendances système
+psutil>=6.0.0
+pywin32>=306
+
+# Si customtkinter pose problème, on peut utiliser ttkbootstrap à la place :
+# ttkbootstrap>=1.10.1
+

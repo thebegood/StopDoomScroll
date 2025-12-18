@@ -1,0 +1,31 @@
+{
+  "pomodoro": {
+    "work_duration": 25,
+    "break_duration": 5,
+    "sound_enabled": true,
+    "notification_enabled": true,
+    "popup_enabled": true
+  },
+  "blacklist": [
+    "youtube.com",
+    "youtube",
+    "facebook.com",
+    "facebook",
+    "instagram.com",
+    "instagram",
+    "twitter.com",
+    "twitter",
+    "reddit.com",
+    "reddit",
+    "tiktok.com",
+    "tiktok",
+    "9gag.com",
+    "netflix.com",
+    "netflix",
+    "twitch.tv",
+    "twitch"
+  ],
+  "check_interval": 2,
+  "alert_cooldown": 10,
+  "debug_mode": false
+}
